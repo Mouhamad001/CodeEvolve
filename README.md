@@ -150,6 +150,6 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-For any inquiries, please contact [Your Name/Email/GitHub Profile].
+For any inquiries, please contact [Mouhamad Hassoun / mouhamadhassoun321@gmail.com].
 
 
